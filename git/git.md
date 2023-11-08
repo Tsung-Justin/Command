@@ -119,9 +119,5 @@ git log --no-merges
 
 ## Tag
 ```bash
-# 顯示所有標籤
-git tag
-
-# 創建一個帶註解的標籤
-git tag -a <Tag>
+test
 ```
