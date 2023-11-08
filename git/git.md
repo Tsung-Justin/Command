@@ -7,11 +7,11 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M master
-git remote add origin https://github.com/Tsung-Justin/<Project_Name>.git
+git remote add origin https://github.com/<Username>/<Project_Name>.git
 git push -u origin master
 
 # push an existing repository from the command line
-git remote add origin https://github.com/Tsung-Justin/<Project_Name>.git
+git remote add origin https://github.com/<Username>/<Project_Name>.git
 git branch -M master
 git push -u origin master
 ```
