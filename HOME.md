@@ -2,11 +2,11 @@
 
 ## Table Of Contents
 
+### Git
+
+* [Git](git/git.md)
+
 ### Python
 
-* [Pipenv](python/pipenv.md)
 * [Os](python/os.md)
-
-### Section2
-
-* [Post2](section2/post2.md)
+* [Pipenv](python/pipenv.md)
