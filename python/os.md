@@ -24,7 +24,7 @@ os.unlink(<Path>)
 os.path.abspath(<Path>)
 
 # Check if <Path> exists
-os.path.exists(<Path)>
+os.path.exists(<Path>)
 
 # Determine whether it is an absolute path
 os.path.isabs(<Path>)
