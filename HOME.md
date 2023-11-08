@@ -1,4 +1,4 @@
-# Commanmd
+# Command
 
 ## Table Of Contents
 
