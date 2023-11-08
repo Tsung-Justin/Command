@@ -29,6 +29,30 @@ git reset <File>
 git reset
 ```
 
+## Remote
+```bash
+# 列出當前專案中已設置的遠端專案
+git remote
+
+# 列出當前專案中已設置的遠端專案 並顯示url
+git remote -v
+
+# 新增一個新的遠端專案
+git remote add <Remote_Name> <Remote_Url>
+
+# 將以設置的遠端專案重新命名
+git remote rename <Old_Name> <New_Name>
+
+# 從當前專案中刪除指定的遠端專案
+git remote remove <Remote_Name>
+
+# 修改指定遠端專案的url
+git remote set-url <Remote_Name> <New_Url>
+
+# 顯示指定遠端專案的詳細訊息
+git remote show <Remote_Name>
+```
+
 ## config
 ```bash
 # 顯示當前的git設定資訊
