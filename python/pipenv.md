@@ -15,13 +15,4 @@ pipenv uninstall -r requirement.txt
 ```
 
 ## Virtual Enviroment
-```bash
-# Generate python virtual enviroment
-pipenv --python <Version>
 
-# Execute a single program (without entering the virtual environment)
-pipenv run python <Filename>
-
-# Enter the virtual enviroment
-pipenv shell
-```
