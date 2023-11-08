@@ -5,6 +5,7 @@
 ### Python
 
 * [Pipenv](python/pipenv.md)
+* [Os](python/os.md)
 
 ### Section2
 
